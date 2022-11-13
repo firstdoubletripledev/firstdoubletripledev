@@ -1,6 +1,6 @@
 ### Bonjour 👋, I'm [Ayush](https://ayushagarwal.ml/)!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=firstdoubletripledev.firstdoubletripledev)
-[![GitHub followers](https://img.shields.io/github/followers/aagarwal1012.svg?style=social&label=Follow)](https://github.com/aagarwal1012?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/aagarwal1012.svg?style=social&label=Follow)](https://github.com/firstdoubletripledev?tab=followers)
 
 #### Talking about Personal Stuffs!
 

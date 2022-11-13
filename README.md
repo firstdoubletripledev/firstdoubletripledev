@@ -1,19 +1,5 @@
 ### Bonjour 👋, I'm [Ayush](https://ayushagarwal.ml/)!
-
-<a href="https://twitter.com/aagarwal1012">
-  <img align="left" alt="Ayush's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
-</a>
-<a href="https://www.linkedin.com/in/aagarwal1012/">
-  <img align="left" alt="Ayush's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<a href="https://medium.com/@aagarwal1012">
-  <img align="left" alt="Ayush's Medium" width="25px" src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-62-512.png" />
-</a>
-<a href="https://www.youtube.com/channel/UCQsnIvnC7zeOhSImDOJmESA">
-  <img align="left" alt="Ayush's Youtube" width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
-</a>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=aagarwal1012.aagarwal1012)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=firstdoubletripledev.firstdoubletripledev)
 [![GitHub followers](https://img.shields.io/github/followers/aagarwal1012.svg?style=social&label=Follow)](https://github.com/aagarwal1012?tab=followers)
 
 #### Talking about Personal Stuffs!

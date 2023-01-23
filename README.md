@@ -8,16 +8,12 @@
 Hello.
 I'm an Expert in :
 
-✅ : React, Figma to ReactJS, Figma to HTML, Figma to CSS
-✅ : NextJS, Figma to Next.JS, Adobe Xd to NextJS
-✅ : HTML5, CSS3, Web UI/UX Design, Tailwind CSS, jQuery, Javascript, Bootstrap Expert
-✅ : Gatsby, TypeScript, Material UI
-✅ : SaaS, MVP, NFT, Blockchain, Startup
-✅ : UI/UX Front-end web development
-
-
-Best Regards,
-Danyl Pavlenko
+✅ : React, Figma to ReactJS, Figma to HTML, Figma to CSS</br>
+✅ : NextJS, Figma to Next.JS, Adobe Xd to NextJS</br>
+✅ : HTML5, CSS3, Web UI/UX Design, Tailwind CSS, jQuery, Javascript, Bootstrap Expert</br>
+✅ : Gatsby, TypeScript, Material UI</br>
+✅ : SaaS, MVP, NFT, Blockchain, Startup</br>
+✅ : UI/UX Front-end web development</br>
 
 
 My tech stack is :

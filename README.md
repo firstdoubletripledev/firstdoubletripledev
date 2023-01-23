@@ -24,6 +24,7 @@ My tech stack is :
 
 Frontend Developer : React | ReactJS | NextJS | Figma | XD | Typescript | NFT | CryptoCurrency | BlockChain | Landing Page | SaaS Web App | Web application | SaaS Base Application | UI/UX | HTML5 | Tailwind.css | jQuery | JavaScript | React.js | Next.js
 
-API Integration : REST API | GraphQL API | Apache Services | Custom API Development | SOAP API | Stripe payment | PayPal | Braintree payment gateway integration![image](https://user-images.githubusercontent.com/116964014/214070417-f072cb1a-eb43-4322-9d0a-a31fbaff5269.png)
+API Integration : REST API | GraphQL API | Apache Services | Custom API Development | SOAP API | Stripe payment | PayPal | Braintree payment gateway integration!
+[image](https://user-images.githubusercontent.com/116964014/214070417-f072cb1a-eb43-4322-9d0a-a31fbaff5269.png)
 
 </br>

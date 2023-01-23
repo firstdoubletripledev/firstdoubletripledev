@@ -1,4 +1,3 @@
-### Bonjour 👋, I'm [Ayush](https://ayushagarwal.ml/)!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=firstdoubletripledev.firstdoubletripledev)
 [![GitHub followers](https://img.shields.io/github/followers/firstdoubletripledev.svg?style=social&label=Follow)](https://github.com/firstdoubletripledev?tab=followers)
 
@@ -6,12 +5,25 @@
 
 <img src='https://media.tenor.com/images/ccae3320ab522c1d09e041f1f7ffea74/tenor.gif' align='right'>
 
-- 🔭 I’m currently working on a few flutter projects.
-- 👯 I’m looking to collaborate on my flutter packages -- [Animated Text Kit](https://github.com/firstdoubletripledev/Animated-Text-Kit), [Liquid Pull to Refresh](https://github.com/firstdoubletripledev/Liquid-Pull-To-Refresh) and [IntroViews Flutter](https://github.com/firstdoubletripledev/IntroViews-Flutter) 🤘
-- 🤔 I’m looking for help with anything in which you have expertise.
-- 💬 Ask me about anything, but I may be slow to respond.
-- 📫 How to reach me: firstdoubletripledev@gmail.com
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: Carrots🥕🥕 just might turn you orange.
+Hello.
+I'm an Expert in :
+
+✅ : React, Figma to ReactJS, Figma to HTML, Figma to CSS
+✅ : NextJS, Figma to Next.JS, Adobe Xd to NextJS
+✅ : HTML5, CSS3, Web UI/UX Design, Tailwind CSS, jQuery, Javascript, Bootstrap Expert
+✅ : Gatsby, TypeScript, Material UI
+✅ : SaaS, MVP, NFT, Blockchain, Startup
+✅ : UI/UX Front-end web development
+
+
+Best Regards,
+Danyl Pavlenko
+
+
+My tech stack is :
+
+Frontend Developer : React | ReactJS | NextJS | Figma | XD | Typescript | NFT | CryptoCurrency | BlockChain | Landing Page | SaaS Web App | Web application | SaaS Base Application | UI/UX | HTML5 | Tailwind.css | jQuery | JavaScript | React.js | Next.js
+
+API Integration : REST API | GraphQL API | Apache Services | Custom API Development | SOAP API | Stripe payment | PayPal | Braintree payment gateway integration![image](https://user-images.githubusercontent.com/116964014/214070417-f072cb1a-eb43-4322-9d0a-a31fbaff5269.png)
 
 </br>

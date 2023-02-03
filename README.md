@@ -3,25 +3,6 @@
 
 <p align="center"></p>
 <img src="https://www.gniindia.org/gnitc/set/cse/images/Artificial%20Intelligence%20&%20Machine%20Learning.jpg"/>
-</h1>
-<h1 align="center">My Github Trophies </h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeus-dev919" alt="zeus-dev919" /></a> </p>
-
-<!-- <h2>[BLOCHCHAIN]</h2>
-<b>I am a senior blockchain developer with rich experience in developing various Dapps such as Defi, DEX and
-projects.</b><br>
-<b>Being well versed in backend I also have notable experience and expertise in frontend as well, that includes the following skill set :</b><br>
-<br>&nbsp; &nbsp; ✓ Smart Contract using ERC20, ERC721, ERC1155, BEP20, SPL(Token, NFT market for)
-<br>&nbsp; &nbsp; ✓ DeFi(Decentralized Finance) DApps such as Lending, Staking, Banking, CEX/DEX
-<br>&nbsp; &nbsp; ✓ Deploy and Testing by Truffle/Hardhat
-<br>&nbsp; &nbsp; ✓ NFT Apps such as minting sites and marketplace based on ETH, BSC and Solana using Solidity and Rust.
-<br>&nbsp; &nbsp; ✓ Web3.js, Web3.py for Blockchain Interactive with Frontend
-<br>&nbsp; &nbsp; ✓ Crypto Trading bot(sniper bot, arbitrage bot, frontrunning bot)
-<br>&nbsp; &nbsp; ✓ Backend with GraphQL on various blockchain networks
-<br>&nbsp; &nbsp; ✓ Wallet connection using web3.js or ether.js
-<br>&nbsp; &nbsp; ✓ NFT minting & staking, marketplace Development
-<br>&nbsp; &nbsp; ✓ Cross-Chain-Bridge Development.
-<br>&nbsp; &nbsp; ✓ Child Token, Bridge Contract development
 
 <h2>[WEB && MOBILE]</h2>  
 <b>I have +6 years of rich and very strong experience in this stack and skills.</b><br>

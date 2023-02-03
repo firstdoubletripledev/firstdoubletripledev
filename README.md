@@ -1,9 +1,3 @@
-<p align="center">
-</p>
-
-<p align="center"></p>
-<img src="https://www.gniindia.org/gnitc/set/cse/images/Artificial%20Intelligence%20&%20Machine%20Learning.jpg"/>
-
 <h2>Hello World</h2>  
 <b>I have 9 years of rich and very strong experience in this stack and skills.</b><br>
 <br>&nbsp; &nbsp; ✓ React/React Native, Vue/Nuxt, Angular, Laravel
@@ -13,7 +7,7 @@
 <br>&nbsp; &nbsp; ✓ Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
 <br>&nbsp; &nbsp; ✓ HTML5, PHP, Javascript and their frameworks
 <br>&nbsp; &nbsp; ✓ MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
-<br>&nbsp; &nbsp; ✓ Github, Gitlab -->
+<br>&nbsp; &nbsp; ✓ Github, Gitlab
 
 <h1 align="center">Languages</h1>
 <p align="left">

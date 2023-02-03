@@ -240,8 +240,6 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=firstdoubletripledev&show_icons=true&locale=en" alt="firstdoubletripledev" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/demo/preview.php?user=firstdoubletripledev&hide_border=true&refresh=1" alt="firstdoubletripledev" /></p>
-
 <p align="center">
   <a href="https://github.com/firstdoubletripledev?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/firstdoubletripledev"/></a>

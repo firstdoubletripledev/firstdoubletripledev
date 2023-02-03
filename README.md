@@ -9,7 +9,6 @@
 <br>&nbsp; &nbsp; ✓ MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
 <br>&nbsp; &nbsp; ✓ Github, Gitlab
 
-<h1 align="center">Languages</h1>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -238,16 +237,15 @@
 </p>
 <h1 align="center">My Github Status </h1>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zeus-dev919&show_icons=true&locale=en" alt="zeus-dev919" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=firstdoubletripledev&show_icons=true&locale=en" alt="firstdoubletripledev" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/demo/preview.php?user=zeus-dev919&hide_border=true&refresh=1" alt="zeus-dev919" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/demo/preview.php?user=firstdoubletripledev&hide_border=true&refresh=1" alt="firstdoubletripledev" /></p>
 
 <p align="center">
-  <a href="https://github.com/zeus-dev919?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/zeus-dev919"/></a>
-  <a href="https://github.com/zeus-dev919?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/zeus-dev919?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/zeus-dev919">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=zeus-dev919&style=for-the-badge"/></a>
+  <a href="https://github.com/firstdoubletripledev?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/firstdoubletripledev"/></a>
+  <a href="https://github.com/firstdoubletripledev?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/firstdoubletripledev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/firstdoubletripledev">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=firstdoubletripledev&style=for-the-badge"/></a>
 </p>
-<br />

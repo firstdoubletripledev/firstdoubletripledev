@@ -4,9 +4,9 @@
 <p align="center"></p>
 <img src="https://www.gniindia.org/gnitc/set/cse/images/Artificial%20Intelligence%20&%20Machine%20Learning.jpg"/>
 
-<h2>[WEB && MOBILE]</h2>  
-<b>I have +6 years of rich and very strong experience in this stack and skills.</b><br>
-<br>&nbsp; &nbsp; ✓ Native: React/React Native, Vue/Nuxt, Angular,Laravel  Hybrid: iOS, Android, Ionic (HTML5, jQuery Mobile)
+<h2>Hello World</h2>  
+<b>I have 9 years of rich and very strong experience in this stack and skills.</b><br>
+<br>&nbsp; &nbsp; ✓ React/React Native, Vue/Nuxt, Angular, Laravel
 <br>&nbsp; &nbsp; ✓ Figma/XD/PSD design to Frontend with pixel perfect and full responsive
 <br>&nbsp; &nbsp; ✓ Web service: XML/JSON, REST/SOAP
 <br>&nbsp; &nbsp; ✓ Cloud backend: Firebase, Amazon S3 EC2 AWS
@@ -17,6 +17,10 @@
 
 <h1 align="center">Languages</h1>
 <p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" />
+  </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" />
@@ -101,10 +105,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
       width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" />
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
